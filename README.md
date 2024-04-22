@@ -23,7 +23,7 @@ This project is a simple weather application that displays current weather infor
 #### Installation:
 1. Clone the repository:
    ```
-   git clone https://github.com/YourUsername/Weather-App.git
+   git clone https://github.com/findech1/weather-app.git
    ```
 
 2. Sign up for a free account on OpenWeatherMap to get your API key.
