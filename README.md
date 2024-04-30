@@ -30,7 +30,9 @@ This project is a simple weather application that displays current weather infor
 3. Replace 'YOUR_API_KEY' in the JavaScript code with your actual API key.
 
 #### Usage:
-1. Open the `index.html` file in a web browser.
+1. ``` 
+Open the `index.html` file in a web browser.
+   ```
 2. Enter a city in the input field and click the 'Search' button to view the weather information.
 
 #### Credits:
